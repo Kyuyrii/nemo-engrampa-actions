@@ -1,5 +1,5 @@
 Package: nemo-engrampa-actions
-Version: 0.1
+Version: 0.2
 Maintainer: https://github.com/Kyuyrii
 Architecture: amd64
 Description: Engrampa integration for Nemo
