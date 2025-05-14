@@ -1,8 +1,9 @@
 Package: nemo-engrampa-actions
-Version: 0.3
+Version: 0.4
 Maintainer: https://github.com/Kyuyrii
 Architecture: amd64
+Depends: engrampa
 Description: Engrampa integration for Nemo
  Nemo Engrampa Actions is an package which allows you to create and extract
- archives in Nemo. This package adds "Extract files here" (for archive files) and
- "Compress selected files" items to the right-click menu.
+ archives in Nemo. This package adds "Extract here" (for archive files) and
+ "Compress" items to the right-click menu.
