@@ -1,5 +1,5 @@
 Package: nemo-engrampa-actions
-Version: 0.4
+Version: 0.5
 Maintainer: https://github.com/Kyuyrii
 Architecture: amd64
 Depends: engrampa, 7zip, rar, zip, rpm2cpio
